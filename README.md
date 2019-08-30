@@ -42,10 +42,9 @@ After surveying a small user group we have determined that the following feature
 
 Git is an important technology to us. Please push your solution to GitHub and send us a link.
 
-We are interested in your adding your own personal style to the test. Complete it using whatever methodology you want to:
-But it is important to note that the code will be purposely reviewed and run by a number of people of varying technical levels,
-ranging from very junior to very seniour.
-It is therefore very important that your code is both sufficiently simple that a non-web developer can run it, but that it really shows off your abilities.
+We are interested in your adding your own personal style to the test. Complete it using whatever methodology  or framework you want to:
+But it is important to note that the code will be purposely reviewed and run by people of varying technical levels, ranging from very junior to very senior.
+It is therefore very important that your code is both sufficiently simple that a non-web (C++) developer can run it, but that it really shows off your abilities.
 
 Finally at the interview stage we will provide an actual API URL to demonstrate against.
 
