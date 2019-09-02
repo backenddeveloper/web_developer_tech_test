@@ -17,8 +17,8 @@ For this technical test you need to design a single page application that will c
 
 - Allocate pets to, and remove Pets from, an Owner.
 
-There are a few requirements that we would like you to work in to your solution...
-It is important that page users are able to perform their pet based administration tasks very quickly.
+## Requirements that we would like you to work in to your solution...
+It is important that page users are able to perform their pet based administration tasks very quickly.  
 After surveying a small user group we have determined that the following features are highly desirable to CDO users:
 
 - A single page where all Cats, Dogs and Owners are visible at the same time.
