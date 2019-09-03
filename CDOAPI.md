@@ -120,7 +120,6 @@ Supplying the token in either form allows you to access the data sections of the
 * **METHODS** : `PUT`
 * **CONTENT-TYPE**: `JSON`
 * **REQUIRED PARAMS**:
-    - `id=[int]`
     - `name=[string]`
 * **REQUIRED HEADERS**:
     - `Cookie: <auth token>`  
@@ -211,7 +210,6 @@ Supplying the token in either form allows you to access the data sections of the
 * **METHODS** : `PUT`
 * **CONTENT-TYPE**: `JSON`
 * **REQUIRED PARAMS**:
-    - `id=[int]`
     - `name=[string]`
 * **REQUIRED HEADERS**:
     - `Cookie: <auth token>`  
@@ -302,7 +300,6 @@ Supplying the token in either form allows you to access the data sections of the
 * **METHODS** : `PUT`
 * **CONTENT-TYPE**: `JSON`
 * **REQUIRED PARAMS**:
-    - `id=[int]`
     - `name=[string]`
 * **REQUIRED HEADERS**:
     - `Cookie: <auth token>`  
