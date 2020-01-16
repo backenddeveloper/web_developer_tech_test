@@ -5,7 +5,7 @@ The purpose of this test is to enable candidates to demonstrate some of their we
 
 The generated solution is intended to be reviewed before, and demonstrated at, interview.
 
-The test should only take about an hour (or maybe thirty minutes if you are fast).
+The test should only take an hour or two.
 
 ## The task ... "Cats, Dogs and their Owners".
 
